@@ -41,7 +41,7 @@ Este projeto apresenta uma landing page moderna, desenvolvida utilizando o frame
     &nbsp&nbsp&nbsp
     <a href="https://github.com/wsawebmaster">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
+    <a href="https://www.linkedin.com/in/
 wsawebmaster">LinkedIn</a>
 &nbsp;|&nbsp;
 <a href="mailto:wsawebmaster@yahoo.com.br">

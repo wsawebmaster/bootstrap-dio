@@ -1,4 +1,4 @@
-## 🚀 Landing Page Moderna com Bootstrap
+## 🚀 Landing Page com Bootstrap
 
 ### 📌 Visão Geral
 
